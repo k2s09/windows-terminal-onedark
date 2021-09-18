@@ -1,5 +1,5 @@
 # windows-terminal-onedark
-A good onedark theme for the Windows terminal.
+A good onedark theme for the [Windows terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab).
 [Matches this great theme for vim](https://github.com/joshdick/onedark.vim)
 
 ## How to get it:
