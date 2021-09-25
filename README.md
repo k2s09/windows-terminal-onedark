@@ -6,7 +6,9 @@ A good onedark theme for the [Windows terminal](https://www.microsoft.com/en-us/
 Copy this:
 ```
 {
-            "name": "Onedark",
+            "name": "OneDark",
+            "background": "#282c34",
+            "foreground": "#abb2bf",
             "black": "#1e2127",
             "red": "#e06c75",
             "green": "#98c379",
@@ -22,9 +24,7 @@ Copy this:
             "brightBlue": "#61afef",
             "brightPurple": "#c678dd",
             "brightCyan": "#56b6c2",
-            "brightWhite": "#ffffff",
-            "background": "#282c34",
-            "foreground": "#abb2bf"
-}
+            "brightWhite": "#ffffff"
+} 
 ```
 Put `"colorScheme": "Onedark"` under a profile or defaults for all.
